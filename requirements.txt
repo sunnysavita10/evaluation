@@ -1,4 +1,4 @@
-deeveval
+deepeval
 langchain
 langchain-openai
 pandas
